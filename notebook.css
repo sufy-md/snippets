@@ -1,0 +1,45 @@
+.theme-light {
+    --background-primary: #b6b6dd;
+    --background-secondary: #9494bb;
+    --background-secondary-alt: #8383aa;
+
+    --accent-h: 47;
+    --accent-s: 95.2;
+    --accent-l: 67.1;
+
+    --text-accent: #0b8043;
+    --text-accent-hover: #40a638;
+
+    --icon-color: #222222;
+    --icon-color-hover: #000000;
+    --icon-color-active: #000000;
+    --icon-color-focused: #000000;
+
+    --interactive-accent: #d5ae15;
+    --interactive-normal: #d5ae15;
+    --interactive-accent-hover: #c49d04;
+}
+
+body {
+    --text-normal: #000000;
+    --nav-item-color: #1a1a1a;
+
+    --text-selection: #6699ff;
+    --text-faint: #686868;
+
+    --code-background: #eeeeff;
+    --code-keyword: #ab2040;
+    --code-function: #ab2040;
+
+    --code-property: #222222;
+    --code-string: #13b054;
+
+    --code-normal: #2d72e1;
+    --code-operator: #2f902f;
+    --code-value: #cb5800;
+
+    --code-comment: #769c76;
+
+    --font-monospace: 'Source Code Pro Medium';
+    --font-interface: 'Montserrat';
+}

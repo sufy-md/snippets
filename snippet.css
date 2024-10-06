@@ -1,0 +1,67 @@
+:root {
+    --font-text-theme: 'Georgia'; 
+}
+
+.theme-dark {
+    --background-primary: #000000;
+    --background-secondary: #000000;
+    --background-secondary-alt: #000000;
+    --background-modifier-border: #444444;
+
+    --accent-h : 220;
+    --accent-s: 100%;
+    --accent-l: 55%;
+}
+
+.cm-indent {
+    --color: #000000;
+}
+
+.workspace-tab-header-container {
+    --font-text-theme: Lorra;
+    --tab-container-background: #000000;
+}
+
+.view-header-title::after {
+    --font-text-theme: Lorra;
+}
+
+.titlebar-button-container.mod-right {
+    --titlebar-background: #000000;
+    --titlebar-background-focused: #000000;
+}
+
+.inline-title {
+    --inline-title-font: Lorra;
+}
+
+body {
+    --code-background: #111111;
+
+    --code-keyword: #db355c;
+    --code-function: #db355c;
+
+    --code-property: #dddddd;
+    --code-string: #1aff1a;
+
+    --code-normal: #7faefa;
+    --code-operator: #ff66ff;
+    --code-value: #f77919;
+
+    --code-comment: #207f20;
+
+    --font-monospace: Consolas;
+
+    --font-interface: Cambria;
+    --font-text-theme: Georgia;
+    --text-normal: #ffffee;
+
+    --h1-size: 1.800em;
+    --h2-size: 1.600em;
+    --h3-size: 1.450em;
+    --h4-size: 1.275em;
+    --h5-size: 1.125em;
+    --h6-size: 1.05em;
+
+    --checkbox-radius: 0;
+}

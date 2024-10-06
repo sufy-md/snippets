@@ -1,0 +1,43 @@
+.theme-light {
+    --background-primary: #fff7e2;
+    --background-secondary: #efdfbd;
+    --background-secondary-alt: #ddcca8;
+
+    --interactive-accent: #5283ee;
+    --interactive-accent-hover: #3061cc;
+
+    --interactive-normal: #c0d4ff;
+    --interactive-hover: #9eb2dd;
+
+    --text-accent: #496dcc;
+    --text-accent-hover: #163a99;
+
+    --icon-color: #222222;
+    --icon-color-hover: #111111;
+    --icon-color-active: #000000;
+    --icon-color-focused: #111111;
+}
+
+body {
+    --text-normal: #000000;
+    --nav-item-color: #121212;
+
+    --text-selection: #aeb7cc;
+    --text-faint: #686868;
+
+    --code-background: #f7efd9;
+    --code-keyword: #ff0000;
+    --code-function: #ff0000;
+
+    --code-property: #000000;
+    --code-string: #119d41;
+
+    --code-normal: #0000ff;
+    --code-operator: #006000;
+    --code-value: #ed7a22;
+
+    --code-comment: #438943;
+
+    --font-monospace: 'Source Code Pro';
+    --font-interface: 'Montserrat';
+}

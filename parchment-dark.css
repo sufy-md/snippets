@@ -1,0 +1,44 @@
+.theme-dark {
+    --background-primary: #1e1e1e; 
+    --background-secondary: #171717; 
+    --background-secondary-alt: #0f0f0f; 
+
+    --interactive-accent: #7a9cff; 
+    --interactive-accent-hover: #5a8bd6; 
+
+    --interactive-normal: #7a9cff; 
+    --interactive-hover: #8bb5ff; 
+
+    --text-accent: #7a9cff;
+    --text-accent-hover: #5a8bd6; 
+
+    --icon-color: #7a9cff; 
+    --icon-color-hover: #5a8bd6; 
+    --icon-color-active: #ffffff; 
+    --icon-color-focused: #e0e0e0; 
+}
+
+body {
+    --text-normal: #ffffff; 
+    --nav-item-color: #f0f0f0; 
+
+    --text-selection: #ff6b6b; 
+    --text-faint: #b0b0b0; 
+
+    --code-background: #111111; 
+    --code-keyword: #db355c; 
+    --code-function: #db355c; 
+
+    --code-property: #dddddd; 
+    --code-string: #1aff1a; 
+
+    --code-normal: #7faefa; 
+    --code-operator: #ff66ff; 
+    --code-value: #f77919; 
+
+    --code-comment: #207f20; 
+
+    --font-monospace: 'Source Code Pro';
+    --font-interface: 'Lexend';
+    --font-text: 'Montserrat'
+}

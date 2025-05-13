@@ -39,6 +39,6 @@ body {
     --code-comment: #207f20; 
 
     --font-monospace: 'Source Code Pro';
-    --font-interface: 'Lexend';
-    --font-text: 'Montserrat'
+    --font-interface: 'Montserrat';
+    --font-text: 'Lexend';
 }
